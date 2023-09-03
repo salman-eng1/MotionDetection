@@ -1,4 +1,12 @@
- Install Python Dependencies:
+Utilization:
+The project is designed for devices are used in marketing purposes and runs on Windows such as self service kiosks
+it triggers an action to exit the screen saver which i'm using in my project to show marketing videos while there is no detection in front of the device
+
+
+Main Advantege:
+the project is focused on decreasing the hardware utilization by controling the number of captured frames
+
+Install Python Dependencies:
 
 ➢ Install python 3.11 using Microsoft Store & https://www.python.org/downloads/ 
 • make sure you’re able to run python commands globally
